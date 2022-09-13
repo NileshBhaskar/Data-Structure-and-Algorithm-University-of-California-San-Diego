@@ -1,3 +1,6 @@
+Structure of this folder
+
+
 Problem 
 	java
 		java solution
