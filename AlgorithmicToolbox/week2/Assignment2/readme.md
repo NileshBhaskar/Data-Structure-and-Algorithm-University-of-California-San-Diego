@@ -2,9 +2,9 @@
 
 
 ## Problem 
-	java
+	<h3>java</h3>
 		java solution
-	python 
+	<h3>python </h3>
 		python solution
-	cpp 
+	<h3>cpp </h3>
 		cpp solution
