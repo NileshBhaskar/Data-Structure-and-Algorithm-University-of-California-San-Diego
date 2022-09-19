@@ -1,7 +1,7 @@
-Structure of this folder
+# Structure of this folder
 
 
-Problem 
+## Problem 
 	java
 		java solution
 	python 
