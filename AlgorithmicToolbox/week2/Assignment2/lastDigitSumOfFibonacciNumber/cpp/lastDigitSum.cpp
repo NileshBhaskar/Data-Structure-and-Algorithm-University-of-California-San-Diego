@@ -23,13 +23,15 @@ long long int repetation(long m)
             return n;
         long long int curr = 1;
         long long int prev = 0;
+        long long int sum = 1;
         for (long long int i = 0; i < n - 1; i++)
         {
             long long int temp = (curr + prev) % m;
             prev = curr % m;
             curr = temp % m;
+            sum += curr%m;
         }
-        return curr;
+        return sum;
     }
 
 int main()
