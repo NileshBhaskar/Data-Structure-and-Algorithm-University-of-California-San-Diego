@@ -1,5 +1,5 @@
 # Data-Structure-and-Algorithm-University-of-California-San-Diego
 
-##Algorithmetic ToolBox
+## Algorithmetic ToolBox
 
-##Week 2
+### Week 2
